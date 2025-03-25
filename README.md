@@ -1,2 +1,2 @@
 # Conversor_moeda
-Trabalho antigo de pseudo código, que fiz em python.
+Trabalho antigo de Conversor moeda em pseudo código portugol, que transformei e melhorei em python.
